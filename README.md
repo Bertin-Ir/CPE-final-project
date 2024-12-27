@@ -77,12 +77,12 @@ _A cutting-edge solution to enhance road safety by monitoring driver stress and 
    - Submit a pull request with proposed features or bug fixes.
 
 - **Share Feedback**:
-   - Report issues or share suggestions via the [discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github).
+   - Report issues or share suggestions via the [discussion board](https://github.com/Bertin-Ir/SmartDriveAlertSystem/issues).
 
 <footer>
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/) &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Get help: [Post in our discussion board](https://github.com/Bertin-Ir/SmartDriveAlertSystem/issues) &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
